@@ -1,9 +1,9 @@
 {
   "template_url": "https://raw.githubusercontent.com/inggonzalogarcia/jyotish-assets/main/openclaw-main/instagram-poster/CieloVedico-template.jpg",
   "font_url": "https://raw.githubusercontent.com/inggonzalogarcia/jyotish-assets/main/openclaw-main/instagram-poster/font/Tangerine/Tangerine-Regular.ttf",
-  "font_size": 200,
+  "font_size": 100,
   "text_color": "#B69E84",
   "text_x": 100,
-  "text_y": 500,
+  "text_y": 400,
   "default_image_url": "https://raw.githubusercontent.com/inggonzalogarcia/jyotish-assets/main/openclaw-main/instagram-poster/CieloVedico-Mayo-2026.jpg"
 }
