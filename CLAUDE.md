@@ -32,3 +32,9 @@ The consuming project (`instagram-poster`) references the image via the `TRANSIT
 ## Binary file handling
 
 `.gitattributes` marks all image formats (`jpg`, `jpeg`, `png`, `gif`, `webp`) as binary to prevent line-ending normalization by Git. New image formats added to the repo should be registered there as well.
+
+## Pointer
+
+Consumed by `instagram-poster` (openclaw-main) via the `TRANSIT_POST_DEFAULT_IMAGE_URL` env var.
+
+Ecosystem map + shared contracts: [../claude-global.md](../claude-global.md)
